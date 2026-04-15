@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://logos-world.net/wp-content/uploads/2021/03/Microsoft-Azure-Logo-700x394.png" alt="Microsoft Azure logo"/>
 </p>
 
-<h1>osTicket - Configure Help Topics</h1>
-This tutorial outlines the prerequisites and installation steps for configuring Help Topics for osTicket. Help Topics allow the ticket Submitters and IT professionals to categorize the type of issue.<br />
+<h1>Microsoft Azure - Creating a Virtual Machine (VM)</h1>
+This tutorial outlines the prerequisites and installation steps for configuring a virtual machine using Microsoft Azure. Virtual Machines are great for testing!
 
 
 <h2>Video Demonstration</h2>
@@ -12,9 +12,7 @@ This tutorial outlines the prerequisites and installation steps for configuring 
 
 <h2>Environments and Technologies Used</h2>
 
-- osTicket (Help Desk Ticketing System)
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
 - Internet Information Services (IIS)
 
 
@@ -24,7 +22,8 @@ This tutorial outlines the prerequisites and installation steps for configuring 
 
 <h2>List of Prerequisites</h2>
 
-- osTicket must be installed and configured correctly. 
+- Microsoft Azure Subscription Needed.
+- Resource Group needs to be created first.  
 
 <h2>Confirguration Steps</h2>
 
